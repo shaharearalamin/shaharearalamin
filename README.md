@@ -28,7 +28,7 @@
 <h2 align="left">Social Activities...</h2>
 
 <div align="left">
-  <a href="[https://www.facebook.com/your-profile](https://www.facebook.com/profile.php?id=100014282491113)" target="_blank">
+  <a href="https://www.facebook.com/your-profile(https://www.facebook.com/profile.php?id=100014282491113)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
   </a>
   <a href="https://www.linkedin.com/in/shaharearalamin77/" target="_blank">
