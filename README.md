@@ -1,5 +1,12 @@
 # Hi there 👋 This is Shaharear Alamin...
-🔭 I’m currently working as a web developer.<br>👯 I’m looking to collaborate on full-stack developer.<br>🤝 I’m looking for help with web developer.<br>🌱 I’m currently learning backend languages.<br>💬 Ask me about web developer work-related and more...<br>⚡ Fun fact: I love both related to my life and coding.
+
+💻 **WordPress Developer | Web Creator**  <br>
+🚀 Building **custom themes & plugins** that bring ideas to life  <br>
+🌱 Learning **backend technologies** like PHP & REST API  <br>
+🤝 Open to **freelance & collaboration opportunities**  <br>
+💡 Ask me about **WordPress, web solutions, and problem-solving**  <br>
+⚡ Fun fact: I enjoy **turning complex ideas into simple, functional websites** 
+
 
 ###
 <h2 align="left">Skills...</h2>
