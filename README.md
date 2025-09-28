@@ -46,11 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img width="15" />
 
-  <!-- WordPress Plugins -->
- <img src="./assets/elementor.svg" height="50" alt="Elementor" />
-<img width="15" />
-<img src="./assets/contact-form-7.svg" height="50" alt="Contact Form 7" />
-
 </div>
 
 
