@@ -47,9 +47,10 @@
   <img width="15" />
 
   <!-- WordPress Plugins -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Elementor_logo.svg" height="50" alt="Elementor" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Contact_Form_7_logo.svg" height="50" alt="Contact Form 7" />
+ <img src="./assets/elementor.svg" height="50" alt="Elementor" />
+<img width="15" />
+<img src="./assets/contact-form-7.svg" height="50" alt="Contact Form 7" />
+
 </div>
 
 
